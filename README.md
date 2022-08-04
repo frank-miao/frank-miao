@@ -2,7 +2,7 @@
 - 👋 Hi, I’m **@UtoKing**
 - 👀 I’m interested in **Math and Computer**
 - 🌱 I’m currently learning **Machine Learning**
-- 📫 How to reach me: **utoking999@icloud.com**
+- 📫 How to reach me: **utoking@outlook.com**
 
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=UtoKing&show_icons=true&&theme=dark">](https://github.com/utoking?template=classic)
 <!---
