@@ -4,4 +4,4 @@
 - 🌱 I’m currently a Ph.D. student of **Department of Applied Mathematics, Hong Kong Polytechnic University(PolyU)**
 - 📫 How to reach me: **fangran.miao@connect.polyu.hk**
 
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=frank-miao&theme=journey&pixelate_avatar=false" />
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=frank-miao&theme=journey&pixelate_avatar=false&v=20260306" />
